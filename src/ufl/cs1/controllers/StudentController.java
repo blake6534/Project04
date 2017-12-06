@@ -1,9 +1,9 @@
-//Blake Jackson 07278828
-//Diego Crespo
-//Ronan Michel
-//Khalid Al-Awady
+//Blake Jackson UFID: 07278828
+//Diego Crespo  UFID: 12421837
+//Ronan Michel  UFID: 33851121
+//Khalid Al-Awady  UFID: 51216179
 
-//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: November 16, 2017
 package ufl.cs1.controllers;
 
 
@@ -399,8 +399,8 @@ public final class StudentController implements DefenderController
 
 }
 
-//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
-//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
-//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
-//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
-//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: November 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: November 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: November 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: November 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: November 16, 2017
