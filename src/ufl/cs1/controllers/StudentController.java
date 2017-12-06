@@ -27,6 +27,7 @@ public final class StudentController implements DefenderController
 	public void shutdown(Game game) { }
 
 	public int[] update(Game game,long timeDue) {
+		//looked at original defenders
 		this.currentGameState = game;
 		if (this.previousGameState == null) {
 			this.previousGameState = game;
