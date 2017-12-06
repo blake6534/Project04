@@ -1,4 +1,11 @@
+//Blake Jackson 07278828
+//Diego Crespo
+//Ronan Michel
+//Khalid Al-Awady
+
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
 package ufl.cs1.controllers;
+
 
 import game.controllers.DefenderController;
 import game.models.*;
@@ -391,3 +398,9 @@ public final class StudentController implements DefenderController
 	}
 
 }
+
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
+//NOTE: WE USED THE INITIALLY UPLOADED PROJECT: THE LAST COMMIT for the source code we used was on: Novemeber 16, 2017
