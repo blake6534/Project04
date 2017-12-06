@@ -47,7 +47,7 @@ public final class StudentController implements DefenderController
 				actions[2] = getBehind(game, i);
 			}
 			else if(i == 3){
-				actions[3] = alwaysChasing(game, i);
+				actions[3] = baitGhost(game, i);
 			}
 
 		}
@@ -267,7 +267,7 @@ public final class StudentController implements DefenderController
 	}
 
 	//method to make defender always chase attacker; defender 3
-	public static int alwaysChasing(Game gameStatus, int ghostNumber){
+	public static int baitGhost(Game gameStatus, int ghostNumber){
 		int direction;
 
 		double upDistance, tempUp;
