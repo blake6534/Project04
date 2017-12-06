@@ -7,7 +7,9 @@ import java.util.List;
 public class _Attacker extends _Actor implements Attacker
 {
     public List<Integer> getPossibleDirs(boolean canReverse) { return super.getPossibleDirs(canReverse); }
-    public int getNextDir(Node to, boolean approach) { return location.getNextDir(to, approach); }
+    public int getNextDir(Node to, boolean approach) {
+        return location.getNextDir(to, approach);
+    }
     public List<Node> getPathTo(Node to) { return getPathTo(to, true); }
     public List<Node> getPossibleLocations(boolean canReverse) { return super.getPossibleLocations(canReverse); }
     public Actor getTargetActor(List<? extends Actor> targets, boolean nearest) { return getTargetActor(targets, nearest, true); }

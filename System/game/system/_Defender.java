@@ -26,10 +26,10 @@ public class _Defender extends _Actor implements Defender
     public Node getTargetNode(List<Node> targets, boolean nearest) { return getTargetNode(targets, nearest, false); }
     public Actor getTargetActor(List<? extends Actor> targets, boolean nearest) { return getTargetActor(targets, nearest, false); }
 
-/*    public boolean requiresAction()
+/*   public boolean requiresAction()
     {
         return (location.isJunction() && vulnerableTime == 0 || vulnerableTime % _Game.DEFENDER_SPEED_REDUCTION != 0);
-    }*/
+    } */
 
     protected int vulnerableTime, lairTime;
 
